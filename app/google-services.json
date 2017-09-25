@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "502411063651",
+    "firebase_url": "https://ejuris-a3f0d.firebaseio.com",
+    "project_id": "ejuris-a3f0d",
+    "storage_bucket": "ejuris-a3f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502411063651:android:1ad0bb05444549ec",
+        "android_client_info": {
+          "package_name": "com.nimbus.ejuris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502411063651-fpktp5sjj4pjvcv3iajgml9jd93i68p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9_Crd0UeSCRzARRWqJKhEOtxb_1szWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
